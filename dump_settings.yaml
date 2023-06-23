@@ -1,6 +1,5 @@
 BLOCK_SITE:
 - https://blog.dd.ac.cn/
-- https://blog.saop.cc/
 - https://picbed.saop.cc/
 DATABASE: sqlite
 DEPLOY_TYPE: github
