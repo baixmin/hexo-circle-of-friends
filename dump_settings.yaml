@@ -1,7 +1,6 @@
 BLOCK_SITE:
-- https://blog.dd.ac.cn/
-- https://picbed.saop.cc/
-- https://blog.saop.cc/
+- https://dd.ac.cn/
+- https://saop.cc/
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
